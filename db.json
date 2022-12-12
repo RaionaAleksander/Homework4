@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-serverbytormi",
-      "author": "typicode",
-      "body":"some comment"
+      "date": "24.12.2022",
+      "author": "typicode"
     }
   ],
   "comments": [
     {
       "id": 1,
+      "body": "some comment",
       "postId": 1
     }
   ],
