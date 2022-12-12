@@ -3,7 +3,20 @@
     {
       "id": 1,
       "date": "24.12.2022",
-      "author": "typicode"
+      "author": "Tormi",
+      "body":"Christmas is the most wonderful time of the year"
+    },
+    {
+      "id": 1,
+      "date": "23.12.2022",
+      "author": "Tormi",
+      "body":"Last exam today for this year"
+    },
+    {
+      "id": 1,
+      "date": "20.12.2022",
+      "author": "Tormi",
+      "body":"Preparing for this exam has been a nightmare"
     }
   ],
   "comments": [
