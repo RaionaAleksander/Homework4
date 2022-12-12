@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
+      "title": "json-serverbytormi",
       "author": "typicode",
       "body":"some comment"
     }
@@ -10,7 +10,6 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
       "postId": 1
     }
   ],
